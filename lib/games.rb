@@ -1,3 +1,5 @@
+require 'pry'
+
 class Games
   attr_reader :events,
               :year
